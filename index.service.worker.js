@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1795607658|7020469';
+const CACHE_VERSION = '1795612669|7207496';
 /** @type {string} */
 const CACHE_PREFIX = 'Patte blanche-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
